@@ -1,0 +1,15 @@
+# File di compilazione C++
+*.o
+*.obj
+*.exe
+build/
+
+# File temporanei Python e Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# File temporanei del sistema operativo
+.DS_Store
+Thumbs.db
+._*

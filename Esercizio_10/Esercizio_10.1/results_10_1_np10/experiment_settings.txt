@@ -1,0 +1,6 @@
+nprocesses=10
+generations=1000
+population_per_rank=500
+interval=50
+trial=0
+geometry=both

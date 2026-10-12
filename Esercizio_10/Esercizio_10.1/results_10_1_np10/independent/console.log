@@ -1,0 +1,36 @@
+circle - independent - generazione    0 - L_best = 29.9101
+circle - independent - generazione  100 - L_best = 6.24306
+circle - independent - generazione  200 - L_best = 6.24306
+circle - independent - generazione  300 - L_best = 6.24306
+circle - independent - generazione  400 - L_best = 6.24306
+circle - independent - generazione  500 - L_best = 6.24306
+circle - independent - generazione  600 - L_best = 6.24306
+circle - independent - generazione  700 - L_best = 6.24306
+circle - independent - generazione  800 - L_best = 6.24306
+circle - independent - generazione  900 - L_best = 6.24306
+circle - independent - generazione 1000 - L_best = 6.24306
+
+RISULTATO FINALE: circle_independent_trial_0
+  Processi: 10
+  L_best globale: 6.24306
+  Continent migliore: 0
+  Tempo: 0.537 secondi
+
+square - independent - generazione    0 - L_best = 14.318
+square - independent - generazione  100 - L_best = 4.832
+square - independent - generazione  200 - L_best = 4.768
+square - independent - generazione  300 - L_best = 4.768
+square - independent - generazione  400 - L_best = 4.768
+square - independent - generazione  500 - L_best = 4.768
+square - independent - generazione  600 - L_best = 4.768
+square - independent - generazione  700 - L_best = 4.768
+square - independent - generazione  800 - L_best = 4.768
+square - independent - generazione  900 - L_best = 4.768
+square - independent - generazione 1000 - L_best = 4.768
+
+RISULTATO FINALE: square_independent_trial_0
+  Processi: 10
+  L_best globale: 4.768
+  Continent migliore: 1
+  Tempo: 0.583 secondi
+

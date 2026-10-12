@@ -1,0 +1,36 @@
+circle - migration - generazione    0 - L_best = 29.9101
+circle - migration - generazione  100 - L_best = 6.24306
+circle - migration - generazione  200 - L_best = 6.24306
+circle - migration - generazione  300 - L_best = 6.24306
+circle - migration - generazione  400 - L_best = 6.24306
+circle - migration - generazione  500 - L_best = 6.24306
+circle - migration - generazione  600 - L_best = 6.24306
+circle - migration - generazione  700 - L_best = 6.24306
+circle - migration - generazione  800 - L_best = 6.24306
+circle - migration - generazione  900 - L_best = 6.24306
+circle - migration - generazione 1000 - L_best = 6.24306
+
+RISULTATO FINALE: circle_migration_trial_0
+  Processi: 10
+  L_best globale: 6.24306
+  Continent migliore: 0
+  Tempo: 0.560 secondi
+
+square - migration - generazione    0 - L_best = 14.318
+square - migration - generazione  100 - L_best = 4.828
+square - migration - generazione  200 - L_best = 4.768
+square - migration - generazione  300 - L_best = 4.768
+square - migration - generazione  400 - L_best = 4.768
+square - migration - generazione  500 - L_best = 4.768
+square - migration - generazione  600 - L_best = 4.768
+square - migration - generazione  700 - L_best = 4.768
+square - migration - generazione  800 - L_best = 4.768
+square - migration - generazione  900 - L_best = 4.768
+square - migration - generazione 1000 - L_best = 4.768
+
+RISULTATO FINALE: square_migration_trial_0
+  Processi: 10
+  L_best globale: 4.768
+  Continent migliore: 0
+  Tempo: 0.595 secondi
+

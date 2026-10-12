@@ -1,0 +1,18 @@
+italy - independent - generazione    0 - L_best = 41515.6
+italy - independent - generazione  100 - L_best = 13390.4
+italy - independent - generazione  200 - L_best = 9334.51
+italy - independent - generazione  300 - L_best = 7754.95
+italy - independent - generazione  400 - L_best = 7058.16
+italy - independent - generazione  500 - L_best = 6861.02
+italy - independent - generazione  600 - L_best = 6704.68
+italy - independent - generazione  700 - L_best = 6566.91
+italy - independent - generazione  800 - L_best = 6503.91
+italy - independent - generazione  900 - L_best = 6497.65
+italy - independent - generazione 1000 - L_best = 6479.3
+
+RISULTATO FINALE: italy_independent_trial_13
+  Processi: 10
+  L_best globale: 6479.3
+  Continent migliore: 1
+  Tempo: 0.836 secondi
+

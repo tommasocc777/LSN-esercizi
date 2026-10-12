@@ -1,0 +1,7 @@
+nprocesses=10
+ntrials=20
+generations=1000
+population_per_rank=500
+intervals=10 20 50 100
+geometry=italy
+note=Confronti appaiati per trial; la stessa configurazione iniziale e' usata per tutte le modalita'

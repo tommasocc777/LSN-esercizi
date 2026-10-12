@@ -1,0 +1,14 @@
+RUN_MODE               EQ_ONLY
+SIMULATION_TYPE        2    1.0    0.00
+RESTART                0
+START_STATE            RANDOM
+TEMP                   0.5
+NPART                  50
+RHO                    1.0
+R_CUT                  0.0
+DELTA                  0.0
+NEQBLOCKS              2000
+NEQSTEPS               10
+NBLOCKS                100
+NSTEPS                 10000
+ENDINPUT

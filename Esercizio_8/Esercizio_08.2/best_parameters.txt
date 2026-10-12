@@ -1,0 +1,14 @@
+# Risultato dell'ottimizzazione variazionale
+# I parametri sono stati ottenuti tramite Simulated Annealing
+# L'energia finale e' stata ricalcolata con VMC ad alta statistica
+# Numero blocchi finali = 1000
+# Passi per blocco finali = 1000
+# delta_x finale = 2.5
+# Colonne:
+# 1 = mu ottimizzato
+# 2 = sigma ottimizzato
+# 3 = energia variazionale finale
+# 4 = errore statistico finale
+# 5 = accettazione Metropolis finale
+# mu sigma energy error acceptance
+0.813292 0.623367 -0.442106 0.000902094 0.532528

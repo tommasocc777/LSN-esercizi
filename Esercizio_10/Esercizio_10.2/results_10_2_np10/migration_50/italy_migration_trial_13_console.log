@@ -1,0 +1,18 @@
+italy - migration - generazione    0 - L_best = 41515.6
+italy - migration - generazione  100 - L_best = 13523.9
+italy - migration - generazione  200 - L_best = 9417.12
+italy - migration - generazione  300 - L_best = 7688.59
+italy - migration - generazione  400 - L_best = 6913.04
+italy - migration - generazione  500 - L_best = 6413.21
+italy - migration - generazione  600 - L_best = 6274.51
+italy - migration - generazione  700 - L_best = 6194.11
+italy - migration - generazione  800 - L_best = 6160.46
+italy - migration - generazione  900 - L_best = 6160.46
+italy - migration - generazione 1000 - L_best = 6160.46
+
+RISULTATO FINALE: italy_migration_trial_13
+  Processi: 10
+  L_best globale: 6160.46
+  Continent migliore: 0
+  Tempo: 0.913 secondi
+
